@@ -25,7 +25,7 @@ body {
   position: fixed;
 }
 
-.moving-baackground {
+.moving-background {
   z-index: -1;
   position: absolute;
   top: 0;
